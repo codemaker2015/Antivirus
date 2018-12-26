@@ -1,0 +1,20 @@
+Line 172: Class MSComctlLib.ListView of control lstVirus was not a loaded control class.
+Line 206: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 178: The property name _ExtentX in lstVirus is invalid.
+Line 179: The property name _ExtentY in lstVirus is invalid.
+Line 180: The property name View in lstVirus is invalid.
+Line 181: The property name Sorted in lstVirus is invalid.
+Line 182: The property name LabelWrap in lstVirus is invalid.
+Line 183: The property name HideSelection in lstVirus is invalid.
+Line 184: The property name _Version in lstVirus is invalid.
+Line 185: The property name SmallIcons in lstVirus is invalid.
+Line 199: The property name NumItems in lstVirus is invalid.
+Line 203: The property name ColumnHeader(1) in lstVirus is invalid.
+Line 172: Property Picture in lstVirus could not be set.
+Line 209: The property name _ExtentX in ImageList2 is invalid.
+Line 210: The property name _ExtentY in ImageList2 is invalid.
+Line 212: The property name ImageWidth in ImageList2 is invalid.
+Line 213: The property name ImageHeight in ImageList2 is invalid.
+Line 214: The property name MaskColor in ImageList2 is invalid.
+Line 215: The property name _Version in ImageList2 is invalid.
+Line 222: The property name Images in ImageList2 is invalid.
